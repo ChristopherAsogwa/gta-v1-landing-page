@@ -1,12 +1,71 @@
-# React + Vite
+# GTA V6 Landing Page 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A high-performance and animated landing page built with **Vite** and **React**, showcasing the power of [GSAP (GreenSock Animation Platform)](https://gsap.com/).
 
-Currently, two official plugins are available:
+This project is designed to demonstrate rich animations and responsive design using modern frontend tools and best practices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚡ Built with **Vite** for ultra-fast development and builds
+- 🎬 Smooth animations powered by **GSAP**
+- 🧩 Component-based structure with **React**
+- 📱 Responsive design using **react-responsive**
+- 🔁 GSAP integration via **@gsap/react**
+
+---
+
+## 📦 Tech Stack
+
+| Tech              | Description                          |
+|-------------------|--------------------------------------|
+| [Vite](https://vitejs.dev/)           | Next-generation frontend tooling       |
+| [React](https://reactjs.org/)         | Component-based UI library             |
+| [GSAP](https://gsap.com/)            | Animation platform for JavaScript      |
+| [@gsap/react](https://gsap.com/react/) | Official GSAP integration for React    |
+| [react-responsive](https://github.com/contra/react-responsive) | Media query support in React |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/gta-v1-landing-page.git
+cd gta-v1-landing-page
+
+2. Install dependencies
+`npm install`
+
+3. Start the development server
+`npm run dev`
+
+🛠 Available Scripts
+npm run dev — Starts the Vite development server
+
+npm run build — Builds the app for production
+
+npm run preview — Previews the production build
+
+
+📁 Folder Structure
+src/
+├── components/      # Reusable UI components
+├── assets/          # Images, fonts, etc.
+├── App.jsx          # Main App component
+├── main.jsx         # Entry point
+
+📸 Screenshots
+## 📸 Screenshot
+
+![Landing Page Preview](./public/images/fav.png)
+
+📄 License
+MIT License © chrisjsdev
+
+🙌 Acknowledgements
+* GSAP
+* React
+* Vite
