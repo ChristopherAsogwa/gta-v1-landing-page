@@ -51,16 +51,16 @@ npm run preview — Previews the production build
 
 
 📁 Folder Structure
+public/
 src/
-├── components/      # Reusable UI components
-├── assets/          # Images, fonts, etc.
+├── sections/      # Reusable UI components         # Images, fonts, etc.
 ├── App.jsx          # Main App component
 ├── main.jsx         # Entry point
 
 📸 Screenshots
 ## 📸 Screenshot
 
-![Landing Page Preview](/public/gta-screeenshot.png)
+![Landing Page Preview](public/gta-screenshot.png)
 
 📄 License
 MIT License © chrisjsdev
