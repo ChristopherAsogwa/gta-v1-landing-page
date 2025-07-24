@@ -60,7 +60,7 @@ src/
 📸 Screenshots
 ## 📸 Screenshot
 
-![Landing Page Preview](./public/images/fav.png)
+![Landing Page Preview](/public/gta-screeenshot.png)
 
 📄 License
 MIT License © chrisjsdev
